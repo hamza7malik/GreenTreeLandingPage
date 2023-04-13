@@ -1,0 +1,26 @@
+.productpage .homebanner{
+    margin-top: 100px !important;
+}
+.title_in span{
+    color: #92c71f !important;
+}
+.productpage .demodetails .demoin a{
+    background: #0051a4 !important;
+}
+.productpage .benifits .col-lg-5.col-12 .arrow .next-step, .productpage .benifits .col-lg-12.col-12 .arrow .next-step, .productpage .benefits .col-lg-5.col-12 .arrow .next-step, .productpage .benefits .col-lg-12.col-12 .arrow .next-step{
+    background-color: #0051a4 !important;
+}
+.productpage .benifits .col-lg-5.col-12 .arrow .prev-step, .productpage .benifits .col-lg-12.col-12 .arrow .prev-step, .productpage .benefits .col-lg-5.col-12 .arrow .prev-step, .productpage .benefits .col-lg-12.col-12 .arrow .prev-step{
+    background-color: #0051a4 !important;
+}
+.productpage .benifits .tab-content .tab-pane .text h3, .productpage .benefits .tab-content .tab-pane .text h3{
+    color: #92c71f !important;
+}
+
+.productpage .cryptoWallet .cryptoWalletBox h4{
+ color: #0051a4 !important;
+}
+@media only screen and (max-width: 991px){
+ .whychoose, .weoffer, .cryptoWallet, .ourfeature, .price-table, .payments, .ourJourney, .benifits .nav-pills, .benefits {
+    display: none !important;}
+}

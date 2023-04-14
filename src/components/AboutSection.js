@@ -3,7 +3,7 @@ import React from 'react'
 export const AboutSection = () => {
   return (
    
-    <div className="about">
+    <div className="about" style={{backgroundColor: "#fff !important"}}>
     <div className="container">
       <div className="aboutin text-sm-start text-center">
         <h2 className="mt-3 mb-3">Why Amazon Clone?</h2>

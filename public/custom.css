@@ -20,6 +20,30 @@
 .productpage .cryptoWallet .cryptoWalletBox h4{
  color: #0051a4 !important;
 }
+body{
+    background-color: #fff !important;
+}
+#root > div > div.about {
+    background-color: #fff !important;
+}
+#root > div > div.weoffer{
+    background-color: #fff !important;
+}
+/* #root > div > div.whychoose > div.title.mb-lg-3.mt-2.pt-4.pt-md-5  {
+    background-color: #fff !important;
+} */
+#root > div > div.whychoose{
+    padding-bottom: 100px;
+}
+#root > div > div.cryptoWallet.d-block.pb-lg-3.pt-2{
+    background-color: #fff !important;
+}
+#root > div > div.standardFeature.py-md-5{
+    background-color: #fff !important;
+}
+#faq{
+    background-color: #fff;
+}
 @media only screen and (max-width: 991px){
  .whychoose, .weoffer, .cryptoWallet, .ourfeature, .price-table, .payments, .ourJourney, .benifits .nav-pills, .benefits {
     display: none !important;}

@@ -7,9 +7,9 @@ export const StandardFeatures = () => {
       <div className="container">
         <div className="col-12 text-center">
           <div className="title_in">
-            <span>All-In-One Feature List Of CliqBuy (Amazon Clone App)</span>
+            <span>All-In-One Feature List Of Green Tree Mobile App</span>
             <h2 className="my-3">
-              Standard Features of CliqBuy (Amazon Clone Script)
+              Standard Features of Green Tree
             </h2>
             <p>
               Build A Widespread Ecommerce Website for All Vendors With Our

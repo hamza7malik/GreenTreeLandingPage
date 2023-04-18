@@ -16,9 +16,9 @@ export const DemoDetails = () => {
       <div className="text-center">
         <div className="title_in">
           <span>Demo Login Details</span>
-          <h2 className="my-3">Demo Details For Amazon Clone</h2>
+          <h2 className="my-3">Demo Details For Green Tree</h2>
           <p>
-            Aware Of App-Like Amazon Workflow By Selecting Role And Click For
+            Aware Of App-Like Green Tree Workflow By Selecting Role And Click For
             Demo
           </p>
         </div>

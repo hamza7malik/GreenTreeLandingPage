@@ -168,7 +168,7 @@ form.contFrm {
 .address-icon{
   color: #fff;
   margin: auto 10px;
-  font-size: 18px;
+  font-size: 15px;
 }
 .box{
   margin-top: 86px;
@@ -178,8 +178,9 @@ form.contFrm {
 }
 .add-p{
   margin-top: 50px;
+  width: auto;
   color:  #fff !important;
-  font-size: 20px !important;
+  font-size: 15px !important;
 }
 
 /* Responcive css Start */

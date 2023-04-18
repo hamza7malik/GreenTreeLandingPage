@@ -8,21 +8,10 @@ export const AboutSection = () => {
       <div className="aboutin text-sm-start text-center">
         <h2 className="mt-3 mb-3">Why Us?</h2>
         <p>
-          Effortless shopping is an attention-gathering option in the Digital era.
-          People of all ages now prefer convenience in choosing the products
-          wherever and whenever. They spend most of their time online shopping.
-          Ecommerce platforms available in the market have the fruitful options to
-          increase their engagements beyond expectations. Creating a one-stop
-          place for all products makes the people feel convenient in purchasing.{" "}
+        At Green Tree, we understand the importance of taking your shop online to expand your business and reach a wider audience. Our Android application provides you with a user-friendly platform to sell your items online and allows users to make purchases directly from your website. With our robust features, including the ability to add products, offers, brands, categories, and multiple images of products, as well as additional information in table format, we ensure that your products look attractive and appealing on your website. Our comprehensive tools and functionalities empower you to create an impressive online store that captivates customers and drives sales. Trust Green Tree to provide you with the tools you need to successfully sell your products online and grow your business.{" "}
         </p>
         <p>
-          Amazon clone is a feature-rich platform that empowers Ecommerce
-          businesses in a smart way. Trioangle provides you with an Amazon clone
-          app called “CliqBuy” with the most essential features to speed up the
-          workflow. A ready-to-go Amazon clone script makes the people launch
-          their Ecommerce business in a unique mode and provide a seamless
-          shopping experience to customers! Standout by this prominent Amazon
-          clone app platform now!
+     
         </p>
       </div>
     </div>

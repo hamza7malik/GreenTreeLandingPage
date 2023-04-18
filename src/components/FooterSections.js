@@ -3,7 +3,7 @@ import React from 'react'
 export const FooterSections = () => {
   return (
     <footer style={{backgroundColor: "#fff"}}>
-    <div className="title_in" style={{textAlign: "center", paddingTop: "30px"}}>
+    <div className="title_in" style={{textAlign: "center", paddingTop: "60px"}}>
             <span>Contact us</span>
             <h2 className="my-3">Let's Talk</h2>
       {    /*  <p>

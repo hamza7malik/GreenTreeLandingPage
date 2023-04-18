@@ -8,9 +8,9 @@ export const TechnologiesSection = () => {
         <div className="text-center">
           <div className="title_in">
             <span>Technologies We Used</span>
-            <h2 className="my-3">Technologies Used In Our Amazon Clone App</h2>
+            <h2 className="my-3">Technologies Used In Our Green Tree App</h2>
             <p>
-              Latest Technologies Governing Our Amazon Clone App Development
+              Latest Technologies Governing Our Green Tree App Development
               Superior One
             </p>
           </div>

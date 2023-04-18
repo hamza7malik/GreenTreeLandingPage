@@ -26,8 +26,8 @@ export const Banner = () => {
     </video>
   </div>
   <div className="banner-text">
-    <h1 style={{color: "#fff"}}>CliqBuy - Amazon Clone</h1>
-    <p className="my-3 my-xl-3" style={{color: "#fff"}}>Stable Version – 1.1</p>
+    <h1 style={{color: "#fff"}}>GreenTree - Wisoft Solutions</h1>
+  {/*  <p className="my-3 my-xl-3" style={{color: "#fff"}}>Stable Version – 1.1</p> */}
     <div className="two_button mb-3 mb-md-5">
       <a href="#demo" className="theme_btn me-3 mt-3" style={{backgroundColor: "#0051A4"}}>
         free demo

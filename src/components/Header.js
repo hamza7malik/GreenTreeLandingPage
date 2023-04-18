@@ -119,7 +119,7 @@ export const Header = () => {
          
     
               <li className="nav-item ms-lg-0 mt-lg-1" style={{zIndex: 10000}}>
-                <a className="downarrow theme_btn " href="javascript:void(0)" style={{backgroundColor: "#92c71f"}}>
+                <a className="downarrow theme_btn " href="#contactus" style={{backgroundColor: "#92c71f"}}>
                   Get Quote
                 </a>
         

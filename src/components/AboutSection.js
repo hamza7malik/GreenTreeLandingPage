@@ -6,7 +6,7 @@ export const AboutSection = () => {
     <div className="about" style={{backgroundColor: "#fff !important"}}>
     <div className="container">
       <div className="aboutin text-sm-start text-center">
-        <h2 className="mt-3 mb-3">Why Amazon Clone?</h2>
+        <h2 className="mt-3 mb-3">Why Us?</h2>
         <p>
           Effortless shopping is an attention-gathering option in the Digital era.
           People of all ages now prefer convenience in choosing the products

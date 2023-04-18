@@ -2,9 +2,118 @@ import React from 'react'
 
 export const FooterSections = () => {
   return (
-    <footer>
+    <footer style={{backgroundColor: "#fff"}}>
+    <div className="title_in" style={{textAlign: "center", paddingTop: "30px"}}>
+            <span>Contact us</span>
+            <h2 className="my-3">Let's Talk</h2>
+      {    /*  <p>
+              Build A Perfect Online E-Store With Our Robust Feature-Set Of Amazon
+              Clone App
+      </p> */}
+          </div>
   <div className="container" id='contactus'>
-    <div className="cls_footer mt-0 pt-5">
+
+    <div className="cls_footer mt-0 " >
+    <section class="contact-sec sec-pad">
+  <div class="container">
+    <div class="row">
+    <div className='col-md-6'>
+      <form id="zoho-frm-landing" action="https://crm.zoho.com/crm/WebToLeadForm" method="POST" class="contFrm" >
+      {/* -------------------------hidden------------------------------ */}
+      <input id="zc_gad" name="zc_gad" type="hidden" value="" />
+<input style={{display: "none"}} name="xmIwtLD" type="text" value="4072df857871ae8f9f4ecf7f5b63da4165fefed39553a3837dc9e91c9701d7c4" />
+<input style={{display: "none"}} name="actionType" type="text" value="TGVhZHM=" />
+<input style={{display: "none"}} name="returnURL" type="text" value="https://www.wisoftsolutions.com" />
+  {/* <!-- Do not remove this code. --> */}
+<input id="ldeskuid" style={{display: "none"}} name="ldeskuid" type="text" />
+<input id="LDTuvid" style={{display: "none"}} name="LDTuvid" type="text" />
+  {/* <!-- Do not remove this code. --> */}
+
+
+<select id="Lead_Source" class="zcwf_col_fld_slt" hidden="hidden" name="Lead Source">
+<option value="-None-">-None-</option>
+<option value="Google">Google</option>
+<option value="Facebook">Facebook</option>
+<option value="Instagram">Instagram</option>
+<option value="Twitter">Twitter</option>
+<option value="LinkedIn">LinkedIn</option>
+<option value="Webform">Webform</option>
+<option value="Web Chat">Web Chat</option>
+<option value="Outdoor">Outdoor</option>
+<option value="Sortlist">Sortlist</option>
+<option value="BNI Chapters">BNI Chapters</option>
+<option value="BNI Lead">BNI Lead</option>
+<option value="Refferals">Refferals</option>
+<option value="Telecall">Telecall</option>
+<option selected="selected" value="Sales Email Alias">Sales Email Alias</option>
+<option value="Outdoor-Hashmi">Outdoor-Hashmi</option>
+<option value="Outdoor - Maribeth">Outdoor &#8211; Maribeth</option>
+</select>
+      {/* ------------------------------------------------------ */}
+    
+      <div class="row">
+      <div class="col-sm-6">
+        <input id="First_Name"  maxlength="40" name="First Name" type="text" placeholder="First Name*" class="inptFld" required />
+      </div>
+      <div class="col-sm-6">
+      <input id="Last_Name"  maxlength="80" name="Last Name" type="text" placeholder="Last Name*" class="inptFld" required />
+    </div>
+      <div class="col-sm-6">
+        <input id="Email"  maxlength="100" name="Email" type="text" placeholder="Email*" class="inptFld" required />
+      </div>
+
+      <div class="col-sm-6">
+        <input id="Phone" class="inptFld"  maxlength="30" name="Phone" type="text" placeholder="Phone"  required />
+      </div>
+      <div class="col-sm-6">
+      <input  id="Company" class="inptFld" maxlength="200" name="Company" type="text" placeholder="Company Name*" required />
+    </div>
+
+    <div class="col-sm-6">
+      <input type="tel"  class="inptFld" id="Country" maxlength="100" name="Country" required />
+    </div>
+
+  {  /*  <div class="col-sm-6">
+        <input type="text" name="sub" placeholder="Subject" class="inptFld" required />
+</div> */}
+
+      <div class="col-12">
+        <textarea class="inptFld" rows="" cols="" placeholder="Project Details" required></textarea>
+      </div>
+
+      <div class="col-12" style={{textAlign: "center"}}>
+        <input type="submit" name="submit" value="SUBMIT" class="inptBtn" />
+        </div>
+        </div>
+        </form>
+        </div>
+        <div className='col-md-6'>
+          <div className='add-info-card'>
+          <div class="container" >
+  
+      
+        <div class="box">
+        
+        <section class="info" >
+{  /*<h4>Acme web design</h4> */}
+           
+                <p className='add-p'>
+                    <i class="fas fa-phone-alt address-icon"></i>
+                    +97143210710
+                </p>
+                <p className='add-p'>
+                    <i class="fas fa-envelope address-icon"></i>
+                    contact@wisoftsolutions.com
+                </p>
+            </section>
+          </div>
+        </div>
+      </div>
+      </div>
+      </div>
+    </div>
+      
+    </section>
       <div className="bottomfooter py-5 d-flex align-items-center justify-content-between">
         <div className="left">
           <div className="footerlogo">

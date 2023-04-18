@@ -29,7 +29,7 @@ export const BenifitsSection = () => {
         <div className="text-center">
           <div className="title_in">
             <span>Our Benefits</span>
-            <h2 className="my-3">Benefits Of Our Amazon Clone Script</h2>
+            <h2 className="my-3">Benefits Of Our Product</h2>
             <p>
               Build A Perfect Online E-Store With Our Robust Feature-Set Of Amazon
               Clone App
@@ -280,7 +280,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/01-signup_or_signin.png"
+                  src="./images/benifits-sec/1/01-signup_or_signin.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -340,7 +340,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/02-multiple_payments.png"
+                  src="./images/benifits-sec/1/02-multiple_payments.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -400,7 +400,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/03-multiple_address.png"
+                  src="./images/benifits-sec/1/03-multiple_address.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -460,7 +460,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/04-track_order.png"
+                  src="./images/benifits-sec/1/04-track_order.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -520,7 +520,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/05-wishlist.png"
+                  src="./images/benifits-sec/1/05-all_brands_option.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -581,7 +581,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/06-multiple_product_category.png"
+                  src="./images/benifits-sec/1/06-multiple_product_category.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -641,7 +641,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/07-responsive_designs.png"
+                  src="./images/benifits-sec/1/07-responsive_designs.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -702,7 +702,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/08-add_to_cart.png"
+                  src="./images/benifits-sec/1/05-all_brands_option.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -762,7 +762,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/09-related_products.png"
+                  src="./images/benifits-sec/1/06-multiple_product_category.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -823,7 +823,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/10-all_brands_option.png"
+                  src="./images/benifits-sec/1/10-all_brands_option.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -883,7 +883,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/11-social_media_sharing.png"
+                  src="./images/benifits-sec/1/11-social_media_sharing.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -944,7 +944,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/12-compare_option.png"
+                  src="./images/benifits-sec/1/12-compare_option.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -1005,7 +1005,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/13-search_option.png"
+                  src="./images/benifits-sec/1/13-search_option.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />
@@ -1066,7 +1066,7 @@ export const BenifitsSection = () => {
             <div className="col-lg-7 col-12">
               <picture>
                 <img
-                  src="./images/benifits-sec/14-coupon_code.png"
+                  src="./images/benifits-sec/1/14-coupon_code.png"
                   alt="amazon-clone"
                   style={{ width: "auto" }}
                 />

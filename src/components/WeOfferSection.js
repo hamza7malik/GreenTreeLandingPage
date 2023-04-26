@@ -21,20 +21,20 @@ export const WeOfferSection = () => {
     <div className="row justify-content-center">
       <div className="col-lg-6 col-md-6 col-12 mb-5">
         <div className="weofferbox text-sm-start text-center">
-          <img src="./images/panel.svg" />
+          <img src="./images/our_benifits_2_sections/01-User-Web-Panel-616x493.png" />
           <h3 className="mt-3">User Web Panel</h3>
           <p className="my-4 mb-md-4">
           User Web Panel
 
           </p>
-          <a href="https://cliqbuy.trioangle.com/" target="_blank">
+          <a href="#" target="_blank">
             View Demo
           </a>
         </div>
       </div>
       <div className="col-lg-6 col-md-6 col-12 mb-5">
         <div className="weofferbox text-sm-start text-center">
-          <img src="./images/panel.svg" />
+          <img src="./images/our_benifits_2_sections/02-Merchant-Web-Panel-616x493.png" />
           <h3 className="mt-3">Merchant Web Panel
           </h3>
           <p className="my-4 mb-md-4">
@@ -47,20 +47,20 @@ export const WeOfferSection = () => {
       </div>
       <div className="col-lg-6 col-md-6 col-12 mb-5">
         <div className="weofferbox text-sm-start text-center">
-          <img src="./images/panel.svg" />
+          <img src="./images/our_benifits_2_sections/03-Admin-Web-Panel-616x493.png" />
           <h3 className="mt-3">Admin Web Panel</h3>
           <p className="my-4 mb-md-4">
           A complete solution for creating digital storefronts.
 
           </p>
-          <a href="https://cliqbuy.trioangle.com/admin" target="_blank">
+          <a href="https://cliqbuy.trioangle.com/03-Admin-Web-Panel-616x493.png" target="_blank">
             View Demo
           </a>
         </div>
       </div>
       <div className="col-lg-6 col-md-6 col-12 mb-5">
         <div className="weofferbox text-sm-start text-center">
-          <img src="./images/android.svg" />
+          <img src="./images/our_benifits_2_sections/04_Buyer_Android_616x493.png" />
           <h3 className="mt-3">Buyer Android App
           </h3>
           <p className="my-4 mb-md-4">
@@ -77,7 +77,7 @@ export const WeOfferSection = () => {
       </div>
       <div className="col-lg-6 col-md-6 col-12 mb-5">
         <div className="weofferbox text-sm-start text-center">
-          <img src="./images/ios.svg" />
+          <img src="./images/our_benifits_2_sections/05-Buyer-Buyer-IOS-616x493.png" />
           <h3 className="mt-3">Buyer iOS App
           </h3>
           <p className="my-4 mb-md-4">

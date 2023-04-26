@@ -24,7 +24,7 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/server.webp" alt="green-tree" />
+                <img src="./images/why_choose_us/01-Free-Server-Installation.png" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
@@ -40,7 +40,7 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/appSubmittion.webp" alt="green-tree" />
+                <img src="./images/why_choose_us/02-Free-App-Submission.png" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
@@ -56,7 +56,7 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/bugSupport.webp" alt="green-tree" />
+                <img src="./images/why_choose_us/03-Free-Bug-Support.png" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
@@ -72,7 +72,7 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/clock.webp" alt="green-tree" />
+                <img src="./images/why_choose_us/04-On-Time-Support.png" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
@@ -88,51 +88,27 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/100SourceCode.webp" alt="green-tree" />
+                <img src="./images/why_choose_us/05-100-source-code.png" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
-              <h4>Support After App Rejection
-              </h4>
+              <h4>Support After App Rejection</h4>
               <p className="mt-3">
-              We will continue to provide support even if your app is rejected by the app store.
+              Depending on your package selection, you'll have access to the full source code, which can be modified to better attract your customers.
 
               </p>
             </div>
           </div>
         </div>
-        {/* <div class="col-lg-4 col-md-6 col-12 mb-3">
-                    <div class="whyin text-sm-start text-center">
-                        <div class="">
-                        <img src="./images/mobile_app.png" alt="Why Choose" />
-                        </div>
-                        <div class="whytxt">
-                            <h4>Native iOS & Android Apps</h4>
-                            <p class="mt-3">Our experts crafted all the features of the app in native languages of iOS & Android to provide light weight script.</p>
-                        </div>
-                    </div>
-                </div>    */}
-        <div className="col-lg-4 col-md-6 col-12 mb-3">
-          <div className="whyin text-sm-start text-center">
-            <div className="">
-              <picture>
-                <img src="./images/app_rejection.webp" alt="green-tree" />
-              </picture>
-            </div>
-            <div className="whytxt">
-              <h4>Free Technical Support</h4>
-              <p className="mt-3">
-              Our expert team is available to help with the registration of accounts on any 3rd party sites, such as SMS Gateway, Payment Gateway, Server, and more.
 
-              </p>
-            </div>
-          </div>
-        </div>
+
+    
+   
         <div className="col-lg-4 col-md-6 col-12 mb-3">
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/Tech-Support.webp" alt="green-tree" />
+              <img src="./images/why_choose_us/06-Support-After-App-Rejection.png" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
@@ -149,7 +125,7 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/white-lable.webp" alt="green-tree" />
+                <img src="./images/why_choose_us/07-Free-Technical-Support.png" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
@@ -162,6 +138,7 @@ export const WhyUsSection = () => {
             </div>
           </div>
         </div>
+    
       </div>
     </div>
   </div>

@@ -26,7 +26,7 @@ export const TechnologiesSection = () => {
             <div className="techtext">
               <div className="img">
                 <picture>
-                  <img src="./images/php.webp" alt="green-tree" />
+                  <img src="./images/technologies_we_used/php-logo.png" alt="green-tree" />
                 </picture>
               </div>
               <p>php</p>
@@ -36,7 +36,7 @@ export const TechnologiesSection = () => {
             <div className="techtext">
               <div className="img">
                 <picture>
-                  <img src="./images/anguler.webp" alt="green-tree" />
+                  <img src="./images/technologies_we_used/Angular-JS.png" alt="green-tree" />
                 </picture>
               </div>
               <p>Angular JS</p>
@@ -46,7 +46,7 @@ export const TechnologiesSection = () => {
             <div className="techtext">
               <div className="img">
                 <picture>
-                  <img src="./images/android.webp" alt="green-tree" />
+                  <img src="./images/technologies_we_used/Android.png" alt="green-tree" />
                 </picture>
               </div>
               <p>Android</p>
@@ -56,7 +56,7 @@ export const TechnologiesSection = () => {
             <div className="techtext">
               <div className="img">
                 <picture>
-                  <img src="./images/flutter.webp" alt="green-tree" />
+                  <img src="./images/technologies_we_used/flutter.png" alt="green-tree" />
                 </picture>
               </div>
               <p>Flutter</p>
@@ -66,7 +66,7 @@ export const TechnologiesSection = () => {
             <div className="techtext">
               <div className="img">
                 <picture>
-                  <img src="./images/CSS3Logo.webp" alt="green-tree" />
+                  <img src="./images/technologies_we_used/css3.png" alt="green-tree" />
                 </picture>
               </div>
               <p>CSS3</p>
@@ -76,7 +76,7 @@ export const TechnologiesSection = () => {
             <div className="techtext">
               <div className="img">
                 <picture>
-                  <img src="./images/html.webp" alt="green-tree" />
+                  <img src="./images/technologies_we_used/HTML.png" alt="green-tree" />
                 </picture>
               </div>
               <p>html</p>
@@ -86,7 +86,7 @@ export const TechnologiesSection = () => {
             <div className="techtext">
               <div className="img">
                 <picture>
-                  <img src="./images/sass.webp" alt="green-tree" />
+                  <img src="./images/technologies_we_used/SASS.png" alt="green-tree" />
                 </picture>
               </div>
               <p>Sass</p>
@@ -96,7 +96,7 @@ export const TechnologiesSection = () => {
             <div className="techtext">
               <div className="img">
                 <picture>
-                  <img src="./images/laravel.webp" alt="green-tree" />
+                  <img src="./images/technologies_we_used/Laravel.png" alt="green-tree" />
                 </picture>
               </div>
               <p>Laravel</p>

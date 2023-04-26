@@ -17,7 +17,7 @@ export const Banner = () => {
       loop=""
       muted=""
       disablepictureinpicture=""
-      poster="./images/banner2.png"
+      poster="./images/banner_images/1920X1080_BANNER_01.gif"
     >
      
     </video>

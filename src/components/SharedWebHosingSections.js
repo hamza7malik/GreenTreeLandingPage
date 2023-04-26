@@ -9,7 +9,9 @@ export const SharedWebHosingSections = () => {
           <div className="title_in">
             <span>Web Hosting</span>
             <h2 className="my-3">Shared Web Hosting</h2>
-            <p>Exclusive Support for Shared Web Hosting for Any Business</p>
+            <p>Exclusive web hosting support for any business. 
+            Choose the right hosting service for your enterprise.. 
+            </p>
           </div>
         </div>
       </div>
@@ -25,21 +27,18 @@ export const SharedWebHosingSections = () => {
         </div>
         <div className="col-lg-5 col-md-7 col-12">
           <div className="cryptoWalletBox text-sm-start text-center">
-            <h4 className="d-block">Smart Decision Where to Host!</h4>
+            <h4 className="d-block">The Smart Way to Host!</h4>
             <p className="mt-4 mb-3">
-              Shared hosting is an ideal choice for any website owners who are
-              looking beginner-friendly and cost-effective option. Dedicated
-              hosting defines the hosting of the website in a single server and it
-              is specially dedicated to your website only.
+            Choosing the right hosting service is essential to the success of your website. Shared hosting is an ideal choice for website owners who are looking for a beginner-friendly and affordable option. With dedicated hosting, your website is hosted on a single server exclusively for your website.
+
             </p>
             <p className="mt-4 mb-3">
-              We, Trioangle have skilled professionals in two hosting modes. But,
-              hosting via shared web-hosting mode from us makes you feel risk-free
-              without any technical requirements.{" "}
+            At Green Tree, we have skilled professionals with expertise in both dedicated and shared hosting, but we highly recommend shared web hosting for a hassle-free experience without the need for any extensive technical requirements. Our hosting services are designed to be user-friendly, affordable, and scalable, making it the ideal choice for businesses of all sizes.
+
             </p>
             <p className="mb-5">
-              Note: Shared web hosting supports source which is run in every min
-              cron
+            Note: Our shared web hosting supports the source, which runs every minute cron.
+
             </p>
           </div>
         </div>

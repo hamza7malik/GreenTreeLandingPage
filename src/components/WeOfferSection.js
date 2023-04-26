@@ -8,10 +8,10 @@ export const WeOfferSection = () => {
       <div className="text-center">
         <div className="title_in">
           <span>Our Offerings</span>
-          <h3 className="my-4">What Do We Offer?</h3>
+          <h3 className="my-4">Grow and manage your enterprise with ease</h3>
           <p>
-            Smart Interfaces in Our Amazon Clone Script Package to Ensure Speedy
-            Workflow
+      
+          We offer a comprehensive suite of tools to help you manage your e-commerce business effectively.
           </p>
         </div>
       </div>
@@ -24,8 +24,8 @@ export const WeOfferSection = () => {
           <img src="./images/panel.svg" />
           <h3 className="mt-3">User Web Panel</h3>
           <p className="my-4 mb-md-4">
-            Specially Crafted Web Panel for Buyers to Monitor All the Orders
-            Effectively.
+          User Web Panel
+
           </p>
           <a href="https://cliqbuy.trioangle.com/" target="_blank">
             View Demo
@@ -35,10 +35,10 @@ export const WeOfferSection = () => {
       <div className="col-lg-6 col-md-6 col-12 mb-5">
         <div className="weofferbox text-sm-start text-center">
           <img src="./images/panel.svg" />
-          <h3 className="mt-3">Merchant Web Panel</h3>
+          <h3 className="mt-3">Merchant Web Panel
+          </h3>
           <p className="my-4 mb-md-4">
-            Specially Crafted Web Panel for Buyers to Monitor All the Orders
-            Effectively.
+          A tool for merchants to manage their stores with ease.
           </p>
           <a href="https://cliqbuy.trioangle.com/" target="_blank">
             View Demo
@@ -50,8 +50,8 @@ export const WeOfferSection = () => {
           <img src="./images/panel.svg" />
           <h3 className="mt-3">Admin Web Panel</h3>
           <p className="my-4 mb-md-4">
-            A Complete Admin Tool To Create Digital Infront for a Wide Range of
-            Stores
+          A complete solution for creating digital storefronts.
+
           </p>
           <a href="https://cliqbuy.trioangle.com/admin" target="_blank">
             View Demo
@@ -61,10 +61,11 @@ export const WeOfferSection = () => {
       <div className="col-lg-6 col-md-6 col-12 mb-5">
         <div className="weofferbox text-sm-start text-center">
           <img src="./images/android.svg" />
-          <h3 className="mt-3">Buyer Android</h3>
+          <h3 className="mt-3">Buyer Android App
+          </h3>
           <p className="my-4 mb-md-4">
-            Branded Android App for Buyers to Place Product Orders in Convenient
-            Way
+          A branded app for Android users to place orders conveniently.
+
           </p>
           <a
             href="https://play.google.com/store/apps/details?id=com.trioangle.cliqbuy"
@@ -77,10 +78,12 @@ export const WeOfferSection = () => {
       <div className="col-lg-6 col-md-6 col-12 mb-5">
         <div className="weofferbox text-sm-start text-center">
           <img src="./images/ios.svg" />
-          <h3 className="mt-3">Buyer iOS</h3>
+          <h3 className="mt-3">Buyer iOS App
+          </h3>
           <p className="my-4 mb-md-4">
-            High-Quality iOS App for Buyers to Access Store Owners in a Single
-            Window
+          A high-quality app for iOS users to access stores in a single window.
+View Demo
+
           </p>
           <a
             href="https://apps.apple.com/in/app/cliqbuy/id1601610493"

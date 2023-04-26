@@ -19,7 +19,7 @@ export const OurProduct = () => {
       <picture>
         <img src="./images/banner_video.webp" alt="fancy-clone" />
       </picture>
-      {/* <img data-src="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/fancy-clone/banner_video.webp?format=webp" alt="Makent" /> */}
+      {/* <img data-src="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/fancy-clone/banner_video.webp?format=webp" alt="Makent" /> */}
       <div className="whytxt">
         <h2 className="mt-lg-0 mt-2 mb-4 mb-lg-5">
           Spiffy
@@ -33,7 +33,7 @@ export const OurProduct = () => {
           Know More
         </a>
       </div>
-      {/* <img data-src="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/bannertop.webp?format=webp" alt="Banner Top" class="banner_aps" /> */}
+      {/* <img data-src="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/bannertop.webp?format=webp" alt="Banner Top" class="banner_aps" /> */}
     </div>
   </div>
 </div>

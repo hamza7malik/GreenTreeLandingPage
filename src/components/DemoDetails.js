@@ -18,19 +18,28 @@ export const DemoDetails = () => {
           <span>Demo Login Details</span>
           <h2 className="my-3">Demo Details For Green Tree</h2>
           <p>
-            Aware Of App-Like Green Tree Workflow By Selecting Role And Click For
-            Demo
+          Experience the seamless app-like workflow of Green Tree by selecting your role and clicking for a demo.
+
           </p>
         </div>
       </div>
     </div>
   </div>
   <div className="container">
+  <ul
+      className="nav nav-pills mb-3 justify-content-lg-start justify-content-center ms-auto"
+      id="demodetails-tab"
+      role="tablist"
+    >
+    <h3 className="mb-4">Demo Login Details</h3>
+
+    </ul>
     <ul
       className="nav nav-pills mb-3 justify-content-lg-start justify-content-center ms-auto"
       id="demodetails-tab"
       role="tablist"
     >
+ 
       <li className="nav-item" role="presentation">
         <button
           className={`nav-link ${selectedBtn === "demo1-tab" ? "active" : ""}`}
@@ -93,7 +102,7 @@ export const DemoDetails = () => {
               <picture>
                 <img
                   src="./images/multiple_payments.webp"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -101,7 +110,7 @@ export const DemoDetails = () => {
           </div>
           <div className="col-lg-5 col-12">
             <div className="demoin text-center text-lg-start pb-lg-5  ">
-              <h3 className="mb-4">Demo Login Details</h3>
+          
               <div className="demotext my-3">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -148,8 +157,8 @@ export const DemoDetails = () => {
               </div>
               <div className="d-block mt-4">
                 <a
-                  href="https://cliqbuy.wisoft.com/admin"
-                  target="_blank"
+                  href="#"
+                  
                   className="px-3 my-1 theme_btn"
                   style={{backgroundColor: "#0051A4"}}
                 >
@@ -172,7 +181,7 @@ export const DemoDetails = () => {
               <picture>
                 <img
                   src="./images/multiple_payments.webp"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -180,7 +189,7 @@ export const DemoDetails = () => {
           </div>
           <div className="col-lg-5 col-12">
             <div className="demoin text-center text-lg-start">
-              <h3 className="mb-4">Demo Login Details</h3>
+            
               <div className="demotext my-3">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -228,38 +237,38 @@ export const DemoDetails = () => {
               <div className="d-block mt-4">
                 <div className="d-inline-block">
                   <a
-                    href="https://cliqbuy.wisoft.com/"
-                    target="_blank"
+                    href="#"
+                    
                     className="px-3 my-1 theme_btn"
                   >
                     Web
                   </a>
                   <p style={{ fontSize: 14 }} className="me-2 mb-0 text-center">
-                    Version 1.1
+            
                   </p>
                 </div>
                 <div className="d-inline-block">
                   <a
-                    href="https://play.google.com/store/apps/details?id=com.wisoft.cliqbuy"
-                    target="_blank"
+                    href="#"
+                    
                     className="px-3 my-1 theme_btn"
                   >
                     Android
                   </a>
                   <p style={{ fontSize: 14 }} className="me-2 mb-0 text-center">
-                    Version 1.1
+                 
                   </p>
                 </div>
                 <div className="d-inline-block">
                   <a
-                    href="https://apps.apple.com/in/app/cliqbuy/id1601610493"
-                    target="_blank"
+                    href="#"
+                    
                     className="px-3 my-1 theme_btn"
                   >
                     iOS
                   </a>
                   <p style={{ fontSize: 14 }} className="me-2 mb-0 text-center">
-                    Version 1.1
+                  
                   </p>
                 </div>
               </div>
@@ -279,7 +288,7 @@ export const DemoDetails = () => {
               <picture>
                 <img
                   src="./images/multiple_payments.webp"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -287,7 +296,7 @@ export const DemoDetails = () => {
           </div>
           <div className="col-lg-5 col-12">
             <div className="demoin text-center text-lg-start pb-lg-5">
-              <h3 className="mb-4">Demo Login Details</h3>
+             
               <div className="demotext my-3">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -334,8 +343,8 @@ export const DemoDetails = () => {
               </div>
               <div className="d-block mt-4">
                 <a
-                  href="https://cliqbuy.wisoft.com/shops/create"
-                  target="_blank"
+                  href="#"
+                  
                   className="px-3 my-1 theme_btn"
                 >
                   Web

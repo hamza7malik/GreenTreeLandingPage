@@ -29,10 +29,10 @@ export const BenifitsSection = () => {
         <div className="text-center">
           <div className="title_in">
             <span>Our Benefits</span>
-            <h2 className="my-3">Benefits Of Our Product</h2>
+            <h2 className="my-3">All the tools you need to build the perfect online store</h2>
             <p>
-              Build A Perfect Online E-Store With Our Robust Feature-Set Of Amazon
-              Clone App
+          
+We offer an extensive range of benefits to ensure that you have everything you need to start selling online. Our full-stack e-commerce solution includes:
             </p>
           </div>
         </div>
@@ -73,7 +73,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits2-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Multiple Payment
+          Multiple Payment Options
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -89,7 +89,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits3-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Multiple Address
+          Multiple Address Support
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -105,7 +105,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits4-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Track Order
+          Track Order
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -121,7 +121,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits5-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Wishlist
+          Wishlist
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -137,7 +137,8 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits6-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Multiple Product Category
+          Multiple Product Categories
+
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -153,7 +154,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits7-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Responsive Design
+          Responsive Design
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -169,7 +170,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits8-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Add To Cart
+          Add to Cart
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -185,7 +186,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits9-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Related Products
+          Related Products
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -201,7 +202,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits10-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            All Brands option
+          All Brands Option
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -217,7 +218,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits11-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Social Media Share
+          Social Media Share
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -233,7 +234,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits12-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Compare Option
+          Compare Option
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -249,7 +250,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits13-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Search Option
+          Search Option
           </button>
         </li>
         <li className="nav-item" role="presentation">
@@ -265,7 +266,7 @@ export const BenifitsSection = () => {
             aria-selected={`nav-link ${selectedBtn === "benifits14-tab" ? "true" : "false"}`}
             onClick={e => handleBtnState(e)}
           >
-            Coupon Code
+          Coupon Code Support
           </button>
         </li>
       </ul>
@@ -281,7 +282,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/01-signup_or_signin.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -322,9 +323,7 @@ export const BenifitsSection = () => {
               <div className="text text-sm-start text-center">
                 <h3>SignUp/SigIn</h3>
                 <p className="my-3">
-                  Users can easily sign-up into their account by entering their
-                  Name,Email, Password and can join with google account in web.
-                  The users can Sign-in easily with their e-mail Id and password.
+                With our easy-to-use sign-up and sign-in process, customers can easily create an account by entering their name, email, and password. We also offer Google account integration for a smoother sign-up process.
                 </p>
               </div>
             </div>
@@ -341,7 +340,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/02-multiple_payments.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -401,7 +400,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/03-multiple_address.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -461,7 +460,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/04-track_order.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -521,7 +520,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/05-all_brands_option.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -582,7 +581,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/06-multiple_product_category.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -642,7 +641,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/07-responsive_designs.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -703,7 +702,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/05-all_brands_option.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -744,7 +743,7 @@ export const BenifitsSection = () => {
               <div className="text text-sm-start text-center">
                 <h3>Add To Cart</h3>
                 <p className="my-3">
-                  In Amazon Clone the users can add their favourite products in
+                  In Green Tree the users can add their favourite products in
                   the cart option, and they can proceed to checkout or delete the
                   product from the cart.
                 </p>
@@ -763,7 +762,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/06-multiple_product_category.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -824,7 +823,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/10-all_brands_option.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -865,7 +864,7 @@ export const BenifitsSection = () => {
               <div className="text text-sm-start text-center">
                 <h3>All Brands Option</h3>
                 <p className="my-3">
-                  The Amazon clone provides the user with a multi-brand of
+                  The Green Tree provides the user with a multi-brand of
                   products, as people will be having different tastes, will have
                   different budgets, and different brands.{" "}
                 </p>
@@ -884,7 +883,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/11-social_media_sharing.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -945,7 +944,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/12-compare_option.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -1006,7 +1005,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/13-search_option.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>
@@ -1067,7 +1066,7 @@ export const BenifitsSection = () => {
               <picture>
                 <img
                   src="./images/benifits-sec/1/14-coupon_code.png"
-                  alt="amazon-clone"
+                  alt="green-tree"
                   style={{ width: "auto" }}
                 />
               </picture>

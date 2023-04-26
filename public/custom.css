@@ -74,4 +74,22 @@ body{
 @media only screen and (max-width: 991px){
  .whychoose, .weoffer, .cryptoWallet, .ourfeature, .price-table, .payments, .ourJourney, .benifits .nav-pills, .benefits {
     display: none !important;}
+    #root > div > div.homebanner > div.banner-text > p {
+        color: #000 !important;
+    }
 }
+
+
+@media only screen and (max-width: 770px){
+    .productpage .homebanner .banner-text h1{
+        font-size: 28px !important;
+    }
+    .productpage .homebanner .banner-text .two_button{
+        margin-top: 18px !important;
+    }
+    #root > div > div.homebanner > div.banner-text > div > div > div:nth-child(2){
+        margin-top: 35px !important;
+    }
+   }
+   
+ 

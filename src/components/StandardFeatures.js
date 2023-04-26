@@ -7,13 +7,15 @@ export const StandardFeatures = () => {
       <div className="container">
         <div className="col-12 text-center">
           <div className="title_in">
-            <span>All-In-One Feature List Of Green Tree Mobile App</span>
+            <span>End-to-end Features
+            </span>
             <h2 className="my-3">
               Standard Features of Green Tree
             </h2>
             <p>
-              Build A Widespread Ecommerce Website for All Vendors With Our
-              Standard Features
+            Available as part of standard package.
+            All the features you need to succeed in today's competitive e-commerce landscape.
+
             </p>
           </div>
         </div>
@@ -23,66 +25,66 @@ export const StandardFeatures = () => {
       <div className="row align-items-center justify-content-center">
         <div className="col-xl-3 col-lg-4 col-md-6 col-12 mb-4">
           <div className="standardFeatureBox text-sm-start text-center d-flex align-items-center justify-content-between">
+          <picture>
+            <img src="./images/goal.webp" alt="green-tree" />
+          </picture>
             <h4 className="p-3 ps-5">SEO Friendly</h4>
-            <picture>
-              <img src="./images/goal.webp" alt="amazon-clone" />
-            </picture>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6 col-12 mb-4">
           <div className="standardFeatureBox text-sm-start text-center d-flex align-items-center justify-content-between">
+          <picture>
+            <img src="./images/multiple_payments.webp" alt="green-tree" />
+          </picture>
             <h4 className="p-3 ps-5">Multiple Payments</h4>
-            <picture>
-              <img src="./images/multiple_payments.webp" alt="amazon-clone" />
-            </picture>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6 col-12 mb-4">
           <div className="standardFeatureBox text-sm-start text-center d-flex align-items-center justify-content-between">
+          <picture>
+            <img src="./images/Setting.webp" alt="green-tree" />
+          </picture>
             <h4 className="p-3 ps-5">100% Customization</h4>
-            <picture>
-              <img src="./images/Setting.webp" alt="amazon-clone" />
-            </picture>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6 col-12 mb-4">
           <div className="standardFeatureBox text-sm-start text-center d-flex align-items-center justify-content-between">
+          <picture>
+            <img src="./images/multicurrency.webp" alt="green-tree" />
+          </picture>
             <h4 className="p-3 ps-5">Multiple Currencies</h4>
-            <picture>
-              <img src="./images/multicurrency.webp" alt="amazon-clone" />
-            </picture>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6 col-12 mb-4">
           <div className="standardFeatureBox text-sm-start d-flex align-items-center justify-content-between">
+          <picture>
+            <img src="./images/search.webp" alt="green-tree" />
+          </picture>
             <h4 className="p-3 ps-5">Advanced Product Search</h4>
-            <picture>
-              <img src="./images/search.webp" alt="amazon-clone" />
-            </picture>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6 col-12 mb-4">
           <div className="standardFeatureBox text-sm-start text-center d-flex align-items-center justify-content-between">
+          <picture>
+            <img src="./images/clock.webp" alt="green-tree" />
+          </picture>
             <h4 className="p-3 ps-5">Round Clock Service</h4>
-            <picture>
-              <img src="./images/clock.webp" alt="amazon-clone" />
-            </picture>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6 col-12 mb-4">
           <div className="standardFeatureBox text-sm-start d-flex align-items-center justify-content-between">
+          <picture>
+            <img src="./images/similar_listings.webp" alt="green-tree" />
+          </picture>
             <h4 className="p-3 ps-5">Multiple Product Category</h4>
-            <picture>
-              <img src="./images/similar_listings.webp" alt="amazon-clone" />
-            </picture>
           </div>
         </div>
         <div className="col-xl-3 col-lg-4 col-md-6 col-12 mb-4">
           <div className="standardFeatureBox text-sm-start text-center d-flex align-items-center justify-content-between">
+          <picture>
+            <img src="./images/res_website.webp" alt="green-tree" />
+          </picture>
             <h4 className="p-3 ps-5">Responsive Design</h4>
-            <picture>
-              <img src="./images/res_website.webp" alt="amazon-clone" />
-            </picture>
           </div>
         </div>
       </div>

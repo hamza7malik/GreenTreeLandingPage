@@ -8,7 +8,7 @@ export const ContactSection = () => {
     <div className="title_in">
       <span>Contact Us </span>
       <h4 className="my-2" id="contact">
-        Let's Talk About Amazon Clone!
+        Let's Talk About Green Tree!
       </h4>
       <p>A Way to Turn Your Dreamy Venture Idea into Real-Profitable </p>
     </div>
@@ -18,8 +18,8 @@ export const ContactSection = () => {
  <div className="contactus_main">
   <div className="container" style={{ position: "relative" }}>
     <div className="contactus col-lg-9 m-auto col-12">
-      {/*  <img data-src="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/contactUsHandImg.png?format=webp" alt="contactUs Image" class="contactUs-hand-img" />            
-      <img data-src="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/contactUsImg.png?format=webp" alt="contactUs Profile Image" class="contactUs-profile-img" /> */}
+      {/*  <img data-src="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/contactUsHandImg.png?format=webp" alt="contactUs Image" class="contactUs-hand-img" />            
+      <img data-src="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/contactUsImg.png?format=webp" alt="contactUs Profile Image" class="contactUs-profile-img" /> */}
       <div className="right">
         <form id="form">
           <div className="row">
@@ -428,7 +428,7 @@ export const ContactSection = () => {
                       <div className="d-flex align-items-center mb-3">
                         <div className="svg">
                           <img
-                            src="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/skype.png"
+                            src="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/skype.png"
                             className=""
                             alt="skype"
                           />
@@ -488,7 +488,7 @@ export const ContactSection = () => {
                       <div className="d-flex align-items-center">
                         <div className="svg">
                           <img
-                            src="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/whatsapp.png"
+                            src="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/whatsapp.png"
                             className="contact_whatsapp"
                             alt="whatsapp"
                           />
@@ -532,30 +532,30 @@ export const ContactSection = () => {
                         <source
                           media="(min-width:992px)"
                           type="image/webp"
-                          srcSet="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/images/contact_btm.webp?format=webp"
+                          srcSet="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/images/contact_btm.webp?format=webp"
                         />
                         <source
                           media="(min-width:465px)"
                           type="image/webp"
-                          srcSet="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/images/contact_btm.webp?format=webp"
+                          srcSet="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/images/contact_btm.webp?format=webp"
                         />
                         <source
                           media="(min-width:992px)"
                           type="image/png"
-                          srcSet="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/images/contact_btm.png?format=webp"
+                          srcSet="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/images/contact_btm.png?format=webp"
                         />
                         <source
                           media="(min-width:465px)"
                           type="image/png"
-                          srcSet="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/images/contact_btm.png?format=webp"
+                          srcSet="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/images/contact_btm.png?format=webp"
                         />
                         <img
-                          data-src="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/images/contact_btm.png?format=webp"
+                          data-src="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/images/contact_btm.png?format=webp"
                           alt="Trioangle"
                           className="img-fluid lazyload"
                         />
                       </picture>
-                      {/* <img src="https://trioangleblog.s3-us-west-2.amazonaws.com/newtrioangle/images/contact_btm.png?format=webp"alt="bottom"> */}
+                      {/* <img src="https://trioangleblog.s3-us-west-2.greentreeaws.com/newtrioangle/images/contact_btm.png?format=webp"alt="bottom"> */}
                     </div>
                   </div>
                 </div>

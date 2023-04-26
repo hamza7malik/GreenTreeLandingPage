@@ -7,8 +7,7 @@ export const FooterSections = () => {
             <span>Contact us</span>
             <h2 className="my-3">Let's Talk</h2>
       {    /*  <p>
-              Build A Perfect Online E-Store With Our Robust Feature-Set Of Amazon
-              Clone App
+              Build A Perfect Online E-Store With Our Robust Feature-Set Of Green Tree
       </p> */}
           </div>
   <div className="container" id='contactus'>

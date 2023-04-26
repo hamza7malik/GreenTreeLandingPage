@@ -7,11 +7,12 @@ export const CryptoWalletSection = () => {
     <div className="container">
       <div className="col-12 text-center">
         <div className="title_in">
-          <span>Our Integral Payment Wallets</span>
-          <h2 className="my-3">Crypto-Wallet Integration</h2>
+          <span>Integrated Payment Wallets</span>
+          <h2 className="my-3">Wallet Integration</h2>
           <p>
-            Secure Online Transactions in Ecommerce Site With Our Crypto-Wallet
-            Integration
+          Supports All Major Cryptocurrencies and Wallets
+Easily integrate with various payment gateways including crypto-wallets.
+
           </p>
         </div>
       </div>
@@ -30,9 +31,8 @@ export const CryptoWalletSection = () => {
         <div className="cryptoWalletBox text-sm-start text-center">
           <h4 className="d-block">Crypto-Wallet Integration</h4>
           <p className="mt-4 mb-5">
-            In Amazon Clone Script, We provide additional payment integration to
-            send and receive the money through crypto wallet. Adding
-            crypto-wallet is done with extra cost.
+          Our integral payment wallets are designed to make online transactions seamless and hassle-free, ensuring that your customers have a positive shopping experience. Our platform's advanced security protocols ensure that your transactions are secure, and your customers' data is always protected. 
+
           </p>
         </div>
       </div>

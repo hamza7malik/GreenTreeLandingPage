@@ -8,10 +8,11 @@ export const PricingPlanSection = () => {
       <div className="text-center">
         <div className="title_in">
           <span>Our Pricing Plans</span>
-          <h2 className="my-3">Pricing Plan For Amazon Clone Script</h2>
+          <h2 className="my-3">Affordable and flexible pricing plans for all businesses
+          </h2>
           <p>
-            Set Your Pricing Package For Amazon Clone App &amp; Start Like A Pro
-            Today
+          Packages that suit your business needs, to kickstart your online store.
+
           </p>
         </div>
       </div>
@@ -70,12 +71,14 @@ export const PricingPlanSection = () => {
       <div className="container">
         <div className="text-center">
           <div className="title_in">
-            <span>Our Specifications</span>
+            <span>Solutions & Specifications</span>
             <h2 className="my-3">
-              Specifications That Scales Your Team's Need
+            Create a powerful and customizable online store
+
             </h2>
             <p>
-              Find All-Range Specifications Relating to Package Selection Here
+            Find the perfect package that scales up with your business
+
             </p>
           </div>
         </div>

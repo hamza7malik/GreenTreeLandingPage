@@ -48,10 +48,10 @@ export const FAQSection = () => {
               <div className="text-center">
                 <div className="title_in mb-5">
                   <span>Frequently Asked Questions</span>
-                  <h3 className="my-4">FAQ - Amazon Clone</h3>
+                  <h3 className="my-4">FAQ - Green Tree</h3>
                   <p>
                     Have Doubts? Get A Clearance for All Your Queries Regarding
-                    Amazon Clone App
+                    Green Tree App
                   </p>
                 </div>
               </div>
@@ -73,7 +73,7 @@ export const FAQSection = () => {
                   onClick={e => handleBtnState(e)}
                   
                 >
-                  1. What is Amazon Clone?
+                  1. What is Green Tree?
                   <span className="faq_close">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -113,7 +113,7 @@ export const FAQSection = () => {
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body pt-0 pb-5">
-                  Amazon clone is a best-in-class white-label solution that
+                  Green tree is a best-in-class white-label solution that
                   includes the most needed features as per the Ecommerce
                   business needs. This is a well-suit platform to build a
                   multi-vendor marketplace and grow earnings in a rapid form.
@@ -132,7 +132,7 @@ export const FAQSection = () => {
                   id="collapseTwo"
                   onClick={e => handleBtnState(e)}
                 >
-                  2. What are the server requirements for amazon clone?
+                  2. What are the server requirements for Green Tree?
                   <span className="faq_close">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -268,7 +268,7 @@ export const FAQSection = () => {
                   id="collapse4"
                   onClick={e => handleBtnState(e)}
                 >
-                  4. How will I receive amazon clone after purchase ?
+                  4. How will I receive Green Tree after purchase ?
                   <span className="faq_close">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -308,8 +308,8 @@ export const FAQSection = () => {
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body pt-0 pb-5">
-                  We do not provide any direct links for downloading amazon
-                  Clone. However, upon purchase of amazon clone, our support
+                  We do not provide any direct links for downloading Green Tree. 
+                  However, upon purchase of Green Tree, our support
                   team will get in touch with you to know your preference as to
                   either deploy and configure the script on your server or send
                   you the dropbox link to download the source code of script.
@@ -628,7 +628,7 @@ export const FAQSection = () => {
                   id="collapse15"
                   onClick={e => handleBtnState(e)}
                 >
-                  10. Can I use amazon clone for commercial purpose?
+                  10. Can I use Green Tree for commercial purpose?
                   <span className="faq_close">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -746,7 +746,7 @@ export const FAQSection = () => {
                   id="collapse9"
                   onClick={e => handleBtnState(e)}
                 >
-                  12. Do I have access to put my brand on your amazon clone
+                  12. Do I have access to put my brand on your Green Tree
                   script?
                   <span className="faq_close">
                     <svg
@@ -1005,7 +1005,7 @@ export const FAQSection = () => {
               <div className="text-center">
                 <div className="title_in mb-5">
                   <span>New Release Details</span>
-                  <h3 className="my-4">Release Detail For Amazon Clone</h3>
+                  <h3 className="my-4">Release Detail For Green Tree</h3>
                   <p>
                     List of Our New Releases Waiting to Bring Wonders in Boat
                     Rental Industry

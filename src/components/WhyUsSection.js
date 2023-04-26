@@ -7,11 +7,12 @@ export const WhyUsSection = () => {
       <div className="container">
         <div className="col-12 text-center">
           <div className="title_in">
-            <span>How We Unique?</span>
+            <span>What Makes Us Unique?</span>
             <h2 className="my-3">Why Choose Us?</h2>
             <p>
-              Extensive Range of Support To Make Your ECommerce Business As
-              Leading in Market
+            Deliver a secure, seamless and stellar user experience <br/>
+            We stand out from the competition with our unparalleled services and extensive range of support, designed to make your virtual store a leader in the market.
+            
             </p>
           </div>
         </div>
@@ -23,15 +24,14 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/server.webp" alt="amazon-clone" />
+                <img src="./images/server.webp" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
               <h4>Free Server Installation</h4>
               <p className="mt-3">
-                Once the purchase is completed, we install our script to your
-                server at free of cost. With short span, we help you to make your
-                script live.
+              Once you make a purchase, we'll install our script on your server at no extra cost, ensuring that your script goes live in a short period of time.
+
               </p>
             </div>
           </div>
@@ -40,15 +40,14 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/appSubmittion.webp" alt="amazon-clone" />
+                <img src="./images/appSubmittion.webp" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
               <h4>Free App Submission</h4>
               <p className="mt-3">
-                We submit your apps which is bought from us. We give you complete
-                support to submit iOS Apps in App Store &amp; Android apps in Play
-                Store.
+              We provide complete support to submit your iOS and Android apps to the App Store and Play Store.
+
               </p>
             </div>
           </div>
@@ -57,16 +56,14 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/bugSupport.webp" alt="amazon-clone" />
+                <img src="./images/bugSupport.webp" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
               <h4>Free Bug Support</h4>
               <p className="mt-3">
-                We continuously work to deliver high quality bug free products. In
-                case of any critical bugs, It's our pleasure to work immediately
-                in free of cost within the support period. Otherwise, we will
-                include it in our near future updates.
+              Our support team is always available to assist you through various communication channels.
+
               </p>
             </div>
           </div>
@@ -75,31 +72,31 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/clock.webp" alt="amazon-clone" />
-              </picture>
-            </div>
-            <div className="whytxt">
-              <h4>On-Time Support</h4>
-              <p className="mt-3">
-                We are always ready to support you in all means of communication
-                channels.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-lg-4 col-md-6 col-12 mb-3">
-          <div className="whyin text-sm-start text-center">
-            <div className="">
-              <picture>
-                <img src="./images/100SourceCode.webp" alt="amazon-clone" />
+                <img src="./images/clock.webp" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
               <h4>100% Source Code</h4>
               <p className="mt-3">
-                Based on the packages selection, you will be afforded with full
-                source code. It helps to change the script to attract your
-                customers.
+              Depending on your package selection, you'll have access to the full source code, which can be modified to better attract your customers.
+
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-12 mb-3">
+          <div className="whyin text-sm-start text-center">
+            <div className="">
+              <picture>
+                <img src="./images/100SourceCode.webp" alt="green-tree" />
+              </picture>
+            </div>
+            <div className="whytxt">
+              <h4>Support After App Rejection
+              </h4>
+              <p className="mt-3">
+              We will continue to provide support even if your app is rejected by the app store.
+
               </p>
             </div>
           </div>
@@ -119,32 +116,14 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/app_rejection.webp" alt="amazon-clone" />
-              </picture>
-            </div>
-            <div className="whytxt">
-              <h4>Support After App Rejection</h4>
-              <p className="mt-3">
-                We are always here to support you even after the purchase is
-                completed. We wholeheartedly accept if any rejection happens after
-                app submission.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col-lg-4 col-md-6 col-12 mb-3">
-          <div className="whyin text-sm-start text-center">
-            <div className="">
-              <picture>
-                <img src="./images/Tech-Support.webp" alt="amazon-clone" />
+                <img src="./images/app_rejection.webp" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">
               <h4>Free Technical Support</h4>
               <p className="mt-3">
-                Our expert team will assist you for registration of accounts on
-                any 3rd party sites like SMS Gateway, Payment Gateway, Server,
-                etc.
+              Our expert team is available to help with the registration of accounts on any 3rd party sites, such as SMS Gateway, Payment Gateway, Server, and more.
+
               </p>
             </div>
           </div>
@@ -153,7 +132,24 @@ export const WhyUsSection = () => {
           <div className="whyin text-sm-start text-center">
             <div className="">
               <picture>
-                <img src="./images/white-lable.webp" alt="amazon-clone" />
+                <img src="./images/Tech-Support.webp" alt="green-tree" />
+              </picture>
+            </div>
+            <div className="whytxt">
+              <h4>Free White Labeling
+              </h4>
+              <p className="mt-3">
+              We understand the importance of having your logo and company name visible everywhere. That's why our admin panel allows you to remove our name and logo and replace it with yours.
+
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-12 mb-3">
+          <div className="whyin text-sm-start text-center">
+            <div className="">
+              <picture>
+                <img src="./images/white-lable.webp" alt="green-tree" />
               </picture>
             </div>
             <div className="whytxt">

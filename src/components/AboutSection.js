@@ -6,9 +6,12 @@ export const AboutSection = () => {
     <div className="about" style={{backgroundColor: "#fff !important"}}>
     <div className="container">
       <div className="aboutin text-sm-start text-center">
-        <h2 className="mt-3 mb-3">Why Us?</h2>
+        <h2 className="mt-3 mb-3">Why Choose Green Tree?
+        </h2>
         <p>
-        At Green Tree, we understand the importance of taking your shop online to expand your business and reach a wider audience. Our Android application provides you with a user-friendly platform to sell your items online and allows users to make purchases directly from your website. With our robust features, including the ability to add products, offers, brands, categories, and multiple images of products, as well as additional information in table format, we ensure that your products look attractive and appealing on your website. Our comprehensive tools and functionalities empower you to create an impressive online store that captivates customers and drives sales. Trust Green Tree to provide you with the tools you need to successfully sell your products online and grow your business.{" "}
+        In this digital age, online shopping has become more convenient than ever, and customers are increasingly looking for hassle-free and efficient ways to purchase products. E-commerce platforms are the perfect solution for businesses looking to increase customer engagement, offer a one-stop-shop for all products, and provide a seamless shopping experience to customers.
+        <br/><br/>
+        Green Tree is a full-stack e-commerce solution that offers everything you need to launch your online store. Our solution is designed to help you stay ahead of the competition by providing an extensive range of support and smart features to make your e-commerce business a success.
         </p>
         <p>
      

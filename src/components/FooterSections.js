@@ -16,7 +16,7 @@ export const FooterSections = () => {
     <section class="contact-sec sec-pad">
   <div class="container">
     <div class="row">
-    <div className='col-md-6'>
+    <div className='col-md-12'>
       <form id="zoho-frm-landing" action="https://crm.zoho.com/crm/WebToLeadForm" method="POST" class="contFrm" >
       {/* -------------------------hidden------------------------------ */}
       <input id="zc_gad" name="zc_gad" type="hidden" value="" />
@@ -69,7 +69,7 @@ export const FooterSections = () => {
     </div>
 
     <div class="col-sm-6">
-      <input type="tel"  class="inptFld" id="Country" maxlength="100" name="Country" required />
+      <input type="tel"  class="inptFld" id="Country" maxlength="100" name="Country" placeholder='Country' required />
     </div>
 
   {  /*  <div class="col-sm-6">
@@ -86,31 +86,10 @@ export const FooterSections = () => {
         </div>
         </form>
         </div>
-        <div className='col-md-6'>
-          <div className='add-info-card'>
-          <div class="container" >
-  
       
-        <div class="box">
-        
-        <section class="info" >
-{  /*<h4>Acme web design</h4> */}
-           
-                <p className='add-p'>
-                    <i class="fas fa-phone-alt address-icon"></i>
-                    +97143210710
-                </p>
-                <p className='add-p'>
-                    <i class="fas fa-envelope address-icon"></i>
-                    contact@wisoftsolutions.com
-                </p>
-            </section>
-          </div>
-        </div>
       </div>
       </div>
-      </div>
-    </div>
+  
       
     </section>
       <div className="bottomfooter py-5 d-flex align-items-center justify-content-between">

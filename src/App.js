@@ -26,14 +26,14 @@ function App() {
      <BenifitsSection/>
      <WeOfferSection/>
      <DemoDetails/>
-     <SubBanner/>
+     
      <WhyUsSection/>
      <SharedWebHosingSections/>
      <CryptoWalletSection/>
      <StandardFeatures/>
      <PricingPlanSection/>
      <TechnologiesSection/>
-     <FAQSection/>
+     
      <FooterSections/>
      </div>
     
